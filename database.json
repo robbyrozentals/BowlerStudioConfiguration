@@ -20,6 +20,10 @@
       "robbyrozentals/servospositionspeed",
       "1651347309807"
     ],
+    "https://github.com/robbyrozentals/cylinder_robbyrozentals.git": [
+      "https://github.com/robbyrozentals/cylinder_robbyrozentals.git",
+      "1651947951742"
+    ],
     "https://github.com/robbyrozentals/cube_robbyrozentals.git": [
       "https://github.com/robbyrozentals/cube_robbyrozentals.git",
       "1651348547022"
@@ -27,9 +31,9 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/robbyrozentals/sphere_robbyrozentals.git:sphere.groovy": [
-      "https://github.com/robbyrozentals/sphere_robbyrozentals.git",
-      "sphere.groovy"
+    "https://github.com/robbyrozentals/cylinder_robbyrozentals.git:cylinder.groovy": [
+      "https://github.com/robbyrozentals/cylinder_robbyrozentals.git",
+      "cylinder.groovy"
     ]
   },
   "BowlerStudioConfigs": {
