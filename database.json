@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/robbyrozentals/ChamferedParts_robbyrozentals.git": [
+      "https://github.com/robbyrozentals/ChamferedParts_robbyrozentals.git",
+      "1651946227675"
+    ],
     "https://github.com/robbyrozentals/helloWorld_robbyrozentals.git": [
       "https://github.com/robbyrozentals/helloWorld_robbyrozentals.git",
       "1651347326478"
@@ -18,6 +22,10 @@
     "https://github.com/robbyrozentals/cube_robbyrozentals.git:cube.groovy": [
       "https://github.com/robbyrozentals/cube_robbyrozentals.git",
       "cube.groovy"
+    ],
+    "https://github.com/robbyrozentals/ChamferedParts_robbyrozentals.git:ChamferedParts.groovy": [
+      "https://github.com/robbyrozentals/ChamferedParts_robbyrozentals.git",
+      "ChamferedParts.groovy"
     ],
     "https://github.com/robbyrozentals/helloWorld_robbyrozentals.git:helloWorld.groovy": [
       "https://github.com/robbyrozentals/helloWorld_robbyrozentals.git",
