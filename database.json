@@ -4,6 +4,10 @@
       "https://github.com/robbyrozentals/roundedcube_robbyrozentals.git",
       "1651946554164"
     ],
+    "https://github.com/robbyrozentals/triangles_robbyrozentals.git": [
+      "https://github.com/robbyrozentals/triangles_robbyrozentals.git",
+      "1651949944832"
+    ],
     "https://github.com/robbyrozentals/NamedSolids_robbyrozentals.git": [
       "https://github.com/robbyrozentals/NamedSolids_robbyrozentals.git",
       "1651948695299"
@@ -39,9 +43,9 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/robbyrozentals/NamedSolids_robbyrozentals.git:NamedSolids.groovy": [
-      "https://github.com/robbyrozentals/NamedSolids_robbyrozentals.git",
-      "NamedSolids.groovy"
+    "https://github.com/robbyrozentals/triangles_robbyrozentals.git:triangles.groovy": [
+      "https://github.com/robbyrozentals/triangles_robbyrozentals.git",
+      "triangles.groovy"
     ]
   },
   "BowlerStudioConfigs": {
