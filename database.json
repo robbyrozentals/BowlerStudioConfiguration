@@ -20,6 +20,10 @@
       "https://github.com/robbyrozentals/sphere_robbyrozentals.git",
       "1651946803360"
     ],
+    "https://github.com/robbyrozentals/CamferedCylinder_robbyrozentals.git": [
+      "https://github.com/robbyrozentals/CamferedCylinder_robbyrozentals.git",
+      "1652550417767"
+    ],
     "https://github.com/robbyrozentals/helloWorld_robbyrozentals.git": [
       "https://github.com/robbyrozentals/helloWorld_robbyrozentals.git",
       "1651347326478"
@@ -46,7 +50,12 @@
     ]
   },
   "studio-open-web": {},
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/robbyrozentals/CamferedCylinder_robbyrozentals.git:CamferedCylinder.groovy": [
+      "https://github.com/robbyrozentals/CamferedCylinder_robbyrozentals.git",
+      "CamferedCylinder.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.47.5",
