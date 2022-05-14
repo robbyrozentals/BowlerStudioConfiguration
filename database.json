@@ -28,6 +28,10 @@
       "https://github.com/robbyrozentals/cube_robbyrozentals.git",
       "1651348547022"
     ],
+    "https://github.com/robbyrozentals/moveRotate_robbyrozentals.git": [
+      "https://github.com/robbyrozentals/moveRotate_robbyrozentals.git",
+      "1652553616586"
+    ],
     "https://github.com/robbyrozentals/roundedcube_robbyrozentals.git": [
       "https://github.com/robbyrozentals/roundedcube_robbyrozentals.git",
       "1651946554164"
@@ -55,9 +59,9 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/robbyrozentals/ParabolaTest_robbyrozentals.git:ParabolaTest.groovy": [
-      "https://github.com/robbyrozentals/ParabolaTest_robbyrozentals.git",
-      "ParabolaTest.groovy"
+    "https://github.com/robbyrozentals/moveRotate_robbyrozentals.git:moveRotate.groovy": [
+      "https://github.com/robbyrozentals/moveRotate_robbyrozentals.git",
+      "moveRotate.groovy"
     ]
   },
   "BowlerStudioConfigs": {
