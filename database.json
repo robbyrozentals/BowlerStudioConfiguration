@@ -40,6 +40,10 @@
       "https://github.com/robbyrozentals/union_robbyrozentals.git",
       "1654366807400"
     ],
+    "https://github.com/robbyrozentals/intersect_robbyrozentals.git": [
+      "https://github.com/robbyrozentals/intersect_robbyrozentals.git",
+      "1654370643804"
+    ],
     "https://github.com/robbyrozentals/roundedcube_robbyrozentals.git": [
       "https://github.com/robbyrozentals/roundedcube_robbyrozentals.git",
       "1651946554164"
@@ -78,6 +82,10 @@
     "https://github.com/robbyrozentals/difference_robbyrozentals.git:difference.groovy": [
       "https://github.com/robbyrozentals/difference_robbyrozentals.git",
       "difference.groovy"
+    ],
+    "https://github.com/robbyrozentals/intersect_robbyrozentals.git:intersect.groovy": [
+      "https://github.com/robbyrozentals/intersect_robbyrozentals.git",
+      "intersect.groovy"
     ]
   },
   "BowlerStudioConfigs": {
