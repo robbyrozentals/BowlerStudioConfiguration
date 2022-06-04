@@ -60,6 +60,10 @@
       "https://github.com/robbyrozentals/helloWorld_robbyrozentals.git",
       "1651347326478"
     ],
+    "https://github.com/robbyrozentals/difference_robbyrozentals.git": [
+      "https://github.com/robbyrozentals/difference_robbyrozentals.git",
+      "1654368886355"
+    ],
     "https://github.com/robbyrozentals/servospositionspeed.git": [
       "robbyrozentals/servospositionspeed",
       "1651347309807"
@@ -70,6 +74,10 @@
     "https://github.com/robbyrozentals/union_robbyrozentals.git:union.groovy": [
       "https://github.com/robbyrozentals/union_robbyrozentals.git",
       "union.groovy"
+    ],
+    "https://github.com/robbyrozentals/difference_robbyrozentals.git:difference.groovy": [
+      "https://github.com/robbyrozentals/difference_robbyrozentals.git",
+      "difference.groovy"
     ]
   },
   "BowlerStudioConfigs": {
