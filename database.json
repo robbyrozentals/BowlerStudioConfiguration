@@ -36,6 +36,10 @@
       "https://github.com/robbyrozentals/moveRotate_robbyrozentals.git",
       "1652553616586"
     ],
+    "https://github.com/robbyrozentals/union_robbyrozentals.git": [
+      "https://github.com/robbyrozentals/union_robbyrozentals.git",
+      "1654366807400"
+    ],
     "https://github.com/robbyrozentals/roundedcube_robbyrozentals.git": [
       "https://github.com/robbyrozentals/roundedcube_robbyrozentals.git",
       "1651946554164"
@@ -63,9 +67,9 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
-    "https://github.com/robbyrozentals/resizeScale_robbyrozentals.git:resizeScale.groovy": [
-      "https://github.com/robbyrozentals/resizeScale_robbyrozentals.git",
-      "resizeScale.groovy"
+    "https://github.com/robbyrozentals/union_robbyrozentals.git:union.groovy": [
+      "https://github.com/robbyrozentals/union_robbyrozentals.git",
+      "union.groovy"
     ]
   },
   "BowlerStudioConfigs": {
