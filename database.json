@@ -71,6 +71,10 @@
     "https://github.com/robbyrozentals/servospositionspeed.git": [
       "robbyrozentals/servospositionspeed",
       "1651347309807"
+    ],
+    "https://github.com/robbyrozentals/chesspeice.git": [
+      "robbyrozentals/chesspeice",
+      "1656789577103"
     ]
   },
   "studio-open-web": {},
