@@ -75,6 +75,10 @@
   },
   "studio-open-web": {},
   "studio-open-git": {
+    "https://github.com/robbyrozentals/chesspeice.git:rook.groovy": [
+      "https://github.com/robbyrozentals/chesspeice.git",
+      "rook.groovy"
+    ],
     "https://github.com/robbyrozentals/union_robbyrozentals.git:union.groovy": [
       "https://github.com/robbyrozentals/union_robbyrozentals.git",
       "union.groovy"
