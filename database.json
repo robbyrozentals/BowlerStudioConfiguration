@@ -94,6 +94,10 @@
     "https://github.com/robbyrozentals/intersect_robbyrozentals.git:intersect.groovy": [
       "https://github.com/robbyrozentals/intersect_robbyrozentals.git",
       "intersect.groovy"
+    ],
+    "https://github.com/robbyrozentals/chesspeice.git:pawnchesspeice.groovy": [
+      "https://github.com/robbyrozentals/chesspeice.git",
+      "pawnchesspeice.groovy"
     ]
   },
   "BowlerStudioConfigs": {
